@@ -1,0 +1,10 @@
+{ 
+    "smile": 0, 
+    "sad": 1, 
+    "angry": 2, 
+    "glass": 3,
+    "lol": 4,
+    "tease":5,
+    "kiss":6,
+    "think":7
+}
